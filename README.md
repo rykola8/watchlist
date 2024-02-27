@@ -1,4 +1,5 @@
 # Movie watchlist
+Programma kur var ierakstīt filmas un seriālus lai noskatīties vēlāk
 
 ## Funkcionālas prasības
 
