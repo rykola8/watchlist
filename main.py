@@ -47,7 +47,7 @@ while True:
             continue
        dictionary_films["rating"] = int(rating)
 
-       reviewed_yes_or_no = input('Have you seen this movie?: ')
+       reviewed_yes_or_no = input('Have you seen this movie?(yes or no): ')
        dictionary_films["reviewed"] = reviewed_yes_or_no
 
        films.append(dictionary_films)
